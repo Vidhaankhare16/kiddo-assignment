@@ -25,6 +25,9 @@
     "web": {
       "bundler": "metro"
     },
+    "experiments": {
+      "baseUrl": "/kiddo-assignment"
+    },
     "plugins": [
       "expo-asset"
     ]
