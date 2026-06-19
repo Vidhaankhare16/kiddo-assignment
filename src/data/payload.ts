@@ -40,7 +40,7 @@ function product(
 
 const SNACKS: Product[] = [
   product('Banana Oat Cookies', 79,   u('1558961-1558963261678-a6a4e9a1eab1'), { mrp: 99, badge: '₹99 deal' }),
-  product('Fruit Puree Pouch', 49,    u('1528825366-1528825870422-e22a37b0d8f1'), { mrp: 65 }),
+  product('Fruit Puree Pouch', 49,    u('1490818077237-65128e59acf2'), { mrp: 65 }),
   product('Veggie Star Puffs', 89,    u('1597400473-1597400933203-01b28c3d1e6d'), { badge: 'Bestseller' }),
   product('Mini Rice Crackers', 59,   u('1567620803-9d87536d8bbe'), { mrp: 75 }),
   product('Apple Cinnamon Bites', 95, u('1506366222-24b8af400445')),
