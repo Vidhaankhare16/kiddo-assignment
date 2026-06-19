@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+expo-env.d.ts
+
+# Scratch / submission-prep artifacts (kept local, not part of the deliverable)
+image.png
+task.md
+SUBMISSION_INSTRUCTIONS.md
+Kiddo_Submission_Template.docx
+scripts/

@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Kiddo",
+    "slug": "kiddo-sdui-renderer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "kiddo",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5E6"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF5E6"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
